@@ -24,7 +24,7 @@
   :block/updated-at 1648562177191}
  {:block/name "contents",
   :block/created-at 1648562308809,
-  :block/updated-at 1659781489420}
+  :block/updated-at 1659847891810}
  {:block/name "doing",
   :block/created-at 1648562177191,
   :block/updated-at 1648562177191}
@@ -79,12 +79,15 @@
  {:block/name "公共基础知识",
   :block/created-at 1659781369979,
   :block/updated-at 1659781369979}
+ {:block/name "关于写作",
+  :block/created-at 1659848165530,
+  :block/updated-at 1659848165530}
  {:block/name "再次使用，看看情况",
   :block/created-at 1659781489419,
   :block/updated-at 1659781935897}
  {:block/name "写作",
   :block/created-at 1648563059437,
-  :block/updated-at 1648563059437}
+  :block/updated-at 1659848165531}
  {:block/name "勇敢",
   :block/created-at 1659781370175,
   :block/updated-at 1659781370175}
@@ -160,6 +163,9 @@
  {:block/name "批判性思维",
   :block/created-at 1659781370169,
   :block/updated-at 1659781370169}
+ {:block/name "技能",
+  :block/created-at 1659847585092,
+  :block/updated-at 1659847585092}
  {:block/name "政治",
   :block/created-at 1659781369775,
   :block/updated-at 1659781369775}
@@ -181,9 +187,6 @@
  {:block/name "智识分子",
   :block/created-at 1648562227315,
   :block/updated-at 1648562486905}
- {:block/name "某些想法",
-  :block/created-at 1659781369194,
-  :block/updated-at 1659781369194}
  {:block/name "正念",
   :block/created-at 1648561493159,
   :block/updated-at 1648561493159}
@@ -193,6 +196,9 @@
  {:block/name "汽车",
   :block/created-at 1659781369786,
   :block/updated-at 1659781369786}
+ {:block/name "沟通",
+  :block/created-at 1659847891810,
+  :block/updated-at 1659847891810}
  {:block/name "理性",
   :block/created-at 1648561493160,
   :block/updated-at 1648561493160}
@@ -262,6 +268,9 @@
  {:block/name "苹果",
   :block/created-at 1659781369794,
   :block/updated-at 1659781369794}
+ {:block/name "见解",
+  :block/created-at 1659847751035,
+  :block/updated-at 1659847751035}
  {:block/name "观察大脑是如何为当下时刻贴上标签以及这个贴标签的过程",
   :block/created-at 1659781369638,
   :block/updated-at 1659781369638}
@@ -277,6 +286,9 @@
  {:block/name "说话",
   :block/created-at 1648563063206,
   :block/updated-at 1648563063206}
+ {:block/name "阅读",
+  :block/created-at 1659847851029,
+  :block/updated-at 1659847851029}
  {:block/name "面试",
   :block/created-at 1659781369385,
   :block/updated-at 1659781369385}
